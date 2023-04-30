@@ -1,0 +1,4 @@
+path,name,tags
+/aws/launch-ec2-instance-in-vpc.md,Launch EC2 Instance in VPC,EC2/VPC
+/aws/uploading-data-to-s3-with-lambda.md,Uploading Data to S3 with Lambda,Lambda/S3
+/gcp/deploying-and-testing-a-public-docker Image-with-google-cloud-run.md,Deploying and Testing a Public Docker Image with Google Cloud Run,Cloud Run/Docker
